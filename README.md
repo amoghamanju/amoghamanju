@@ -1,7 +1,17 @@
 Hi there 👋
 
 # 💫 About Me:
-I am Amogha Manju! A Salesforce Developer - very keen on learning new stuff! <br>🔭I'm currently working on Improving Intrusion Detection Systems using Transformer Architecture.<br>🌱 I'm currently learning Angular<br>🙌 I have these skills: Aura/LWC/Apex, Java, JS, HTML/CSS etc.<br>
+I am Amogha Manju! A Salesforce Developer - very keen on learning new stuff! <br>🔭I'm currently working on Improving Intrusion Detection Systems using Transformer Architecture.<br>🌱 I'm currently learning Angular<br>🙌 I have these skills: Aura/LWC/Apex, Java, JS, HTML/CSS etc.<br> Here is my resume.
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/amoghamanju/Resume/blob/main/Amogha%20Manjunatha%20K%20Profile%20.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
 
 
 ## 🌐 Socials:
