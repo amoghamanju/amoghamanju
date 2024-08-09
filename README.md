@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-I am Amogha Manju! A Salesforce Developer - very keen on learning new stuff! <br>🔭I'm currently working on Improving Intrusion Detection Systems using Transformer Architecture.<br>🌱 I'm currently learning React JS<br>🙌 I have these skills: Aura/LWC/Apex, JS, HTML/CSS etc.<br>
+I am Amogha Manju! A Salesforce Developer - very keen on learning new stuff! <br>🔭I'm currently working on Improving Intrusion Detection Systems using Transformer Architecture.<br>🌱 I'm currently learning Angular<br>🙌 I have these skills: Aura/LWC/Apex, Java, JS, HTML/CSS etc.<br>
 
 
 ## 🌐 Socials:
